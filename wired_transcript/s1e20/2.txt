@@ -1,0 +1,97 @@
+ What grade are you in?
+- I am about to be a junior.
+- Have you heard of something called Moravec's paradox?
+- Never heard of it.
+- Typically you would think that things
+that are easy for humans, are also easy for robots
+and computers to do. - Right.
+And things that are hard for humans
+should also be hard for robots and humans to do.
+But it turns out that it's actually the opposite.
+I wanna try a little demo. - Okay.
+So I have a penny in my hand and I'd like you to pick it up
+with your right hand and put it into your left hand.
+So that was pretty easy, right?
+- Yeah.
+- We're gonna make this a little bit harder now.
+So, can you put these on?
+And we'll try to do the same thing again
+with your eyes closed.
+There you go.
+Let's try that one more time,
+and see if you can do any better.
+So close your eyes.
+- Oh, there we go.
+- Yeah. So that you're able, with a bit more practice,
+you're able to figure it out.
+When it fell on the ground, how did you know
+to pick it up off the ground? - From the sound.
+So when a robot tries to do something,
+like pick up an object,
+not only do you need to program exactly
+like what the motors should do,
+the robot also needs to be able to see where the object is.
+Then this is what's called
+a perception action loop in robotics.
+So if the object moves,
+the robot can then adapt what it's doing and change
+what it's doing to successfully pick up the object.
+It's really important for robots to be able to leverage,
+not just like the past hour of experience,
+but also ideally many years of experience,
+in order to do the kinds of things that you did.
+- It's kind of hard for me to understand why
+like robots can do like all these crazy calculations,
+but they can't do like all the simple stuff, so.
+- Yeah. It's really unintuitive.
+In order to survive,
+we need to pick up objects and everything.
+Basically many, many, like billions of years
+of evolution actually created humans
+and the ability to manipulate objects like that.
+So, it actually turns out that things
+that are really basic for us are actually
+just really complex tasks in general.
+- So do robots know, like, they messed up?
+They know.
+- That's a great question.
+So in reinforcement learning, the robot tries the task,
+and then it gets some sort of reinforcement,
+some sort of feedback.
+It's similar to
+how you might train a dog. - Yeah.
+So you could give it feedback like that.
+So it won't necessarily know itself,
+especially on the first few tries,
+but it's trying to figure out what the task is even.
+- Does a robot see like how we see or does it like,
+just see like a program or something?
+- We give robots a camera and the camera produces
+this array of numbers.
+Basically, each pixel has three different numbers,
+one for R, for G and for B.
+And so the robot sees this really massive set of numbers.
+And it has to be able to figure out,
+from that massive set of numbers, what is in the world.
+There is a number of different ways to have the robot see,
+but we use a technique called neural networks,
+that tries to take out in those big numbers
+and form representations of the objects in the world,
+and where those objects are.
+- Can a robot ever go off the program?
+- It depends on how you program the robot.
+If you program the robot to follow exact motions
+and follow a very specific program,
+then it won't go off that program.
+It will always do those actions.
+But if something unexpected happens,
+that the program wasn't designed to handle,
+then the robot might go off court.
+- Do you think robots will take over the world?
+Just being honest.
+- I think that robotics is really, really hard.
+Having robots do even really basic stuff,
+like pick up objects, is really, really hard.
+So if they do take over the world,
+I think it'll be a very, very, very,
+very long time from now. - Very long time. Yeah.

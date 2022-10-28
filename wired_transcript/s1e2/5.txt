@@ -1,0 +1,299 @@
+so matt what are you doing right now in
+the lab and how are you using gene
+editing in your own work right now one
+of the questions i've been very much
+interested in is trying to understand
+the effect of human genetic variation on
+using crispr cas9 reagents
+because you and i just sitting here
+differ in millions of different
+locations within our genome we use these
+guide rnas which are 20 base pairs and
+we match it to different places in the
+genome but what if there's a mutation at
+that site and how does that affect a
+mutation that's different between you
+and me it's the same site but there's a
+slight difference in the dna between you
+and me exactly let's say in you it's a
+perfect match and me there's one that's
+actually a mismatch and how does that
+affect things in the lab because maybe
+it won't be as efficient it won't be
+able to bring cas9 to the correct site
+and cut there so when when people are
+using crispr now in the lab are they
+really sequencing the exact cell type
+they use sequencing reading out the
+genome of that cell before they use
+crispr not many do that it would
+ultimately be the best way to do it for
+sure because the reference genome that
+was published in 2001 was kind of just
+one person's genome and as we know very
+well from sequencing many different
+individuals there are a lot of
+differences
+and so there are some concerns that when
+you use these in the lab that you're
+intending for a cut to be made in this
+one place in the genome but if there
+happens to be a mismatch there because
+of some variant in the cells that you're
+studying maybe it won't cut there at all
+and even maybe worse is that maybe it'll
+cut somewhere else because maybe now it
+can match elsewhere so so you're saying
+right now that it's it's kind of early
+days with crispr and that there's a lot
+of
+technical issues that really need to be
+ironed out that it's not
+anything can be targeted at any time
+we're trying to develop the scientific
+steps that will take us to that kind of
+total genome control it is still
+the early days and as much progress has
+been done which is actually quite
+remarkable given how new this technology
+is i mean we're just a few years away
+from when it was really started being
+used for these applications however
+having said that
+holds a lot of potential and i think can
+get there but there's a lot of issues
+and concerns that need to be worked out
+i was going to say that a lot of what
+inspired me to get into
+bioengineering are movies movies like
+jurassic park
+which both shows the good and the bad
+sides of manipulating the nature around
+us and so maybe it's a bit of a silly
+question but what do you think in our
+lifetime will we see something like
+jurassic park where humans have actually
+engineered uh different different
+animals anything is possible i'm not
+sure that we will see that in our
+lifetimes but i would be very excited to
+attend jurassic park if that were the
+case having said that i do think that
+crispr cast 9 does have a lot of
+potential
+to
+do things that are kind of out of the
+box in the past few years we've been
+able to tackle ideas that people didn't
+even think were possible before that
+more than anything crispr has created
+a whole open field of opportunities and
+so whether or not that leads us to
+jurassic park i can't tell you that
+answer for sure but i certainly hope
+that it does
+i think you're right that the
+opportunities might be much broader than
+just biomedical science it might be
+things like using dna as a hard drive
+being able to uh use crispr as a
+diagnostic instead of just a tool for
+for editing can we yeah use cells to
+record data over time with with crispr
+can we use crispr to track cells in a
+developing embryo i think this is one of
+the most exciting recent uses of crispr
+i've seen that i would have never
+predicted a year ago the dominant
+paradigm right now is crispr is just for
+cutting dna but when you think of it
+more as a general platform a pointer to
+a location in a genome then that becomes
+a very very powerful thing do you think
+crispr will be helpful for understanding
+human variation beyond what we already
+have just by sequencing people's genomes
+yes absolutely i think that the real
+power of crispr lets us to follow up on
+this genetic information that we've been
+studying and following for a very long
+time now there's been a lot of studies
+where you take a group of people with
+disease x and people without that
+disease and you see if any mutations
+seem to be preferentially in the group
+with the disease and kind of absent in
+the group without the disease people
+have observed these differences but what
+you're saying is with crispr we can now
+test is this causal this factor if we
+make this mutation does it cause the
+disease does it either create sickle
+cell anemia or ameliorate sickle cell
+anemia and prevent it do you think we'll
+ever be at a place where based on
+looking at someone's genome and these
+kinds of crispr functional screens we
+can predict
+what kinds of diseases these people
+might get 10 20 years in the future i
+think that's certainly a great goal as
+of now we tend to focus on variants or
+mutations that we know the function what
+about mutations we've never seen before
+something that comes from let's say uv
+radiation and melanoma or something i
+think that we will ultimately have the
+power to do that and so thinking about
+when you start from mutation do you look
+at the expression of rna is that change
+is it changing things at the protein
+level so so this is interesting so you
+mentioned that we can analyze genomes
+the dna level and then you said the rna
+level looking at the expression of genes
+and then the proteins the products that
+they actually make with proteomics or
+mass
+spectrometry
+but do you think it's kind of like
+another level of understanding the
+function of the genome or do you view it
+as
+part of one one of those those levels i
+do think it provides a different level
+of data the ability to
+rapidly and
+genome-wide assess and make changes at
+the dna level and then look at the
+resulting changes of the rna and protein
+level i think is something that we
+haven't been able to do and is now i
+think going to rapidly advance
+understanding at a genetic level at the
+dna level of a lot of different diseases
+so so you and i have done functional
+screens we've done these large-scale
+crispr screens where we modify many
+genes thousands of genes or thousands of
+locations in the genome all in kind of a
+test system but do you ever see this one
+day the idea of these multiplex pooled
+crisper screens going into the clinic
+that we actually take a clinical cell
+line a cell line from a patient
+absolutely i think that is kind of one
+of the ultimate goals ultimately it
+would be very nice to be able to correct
+the mutations
+for these diseases we've known about for
+sometimes hundreds of years and we just
+haven't been able to do anything about
+there's a lot of kind of ethical issues
+surrounding very reasonably using crispr
+in the clinic i think there's a lot of
+concern about trying to use crispr
+technology other genome technologies to
+make humans
+designed in a specific way whether you
+want to change eye color height or
+things like that
+the kind of irony of that situation is
+that the genetics of a lot of the traits
+that are you know you can see by just
+looking at a person are quite complex
+and are not worked out in the same way
+so you're saying that the ethical
+problem is not really right now a clear
+and present issue because for many of
+these
+perhaps a little bit more superficial
+traits that we have we don't really even
+know what what genes can control these
+these traits though it's probably
+a good idea to start thinking a little
+bit about engineering somatic cells
+versus
+germline cells which are passed on to
+future generations and i think one nice
+thing is that most scientists agree that
+for at least for human gene editing that
+we need to focus on somatic cells which
+really impacts a lot of people with
+these diseases and that there's many
+many issues around editing the germline
+where there you're
+doing something that might be inherited
+for for many many generations so it's
+it's kind of an interesting
+misconception that people think that
+crispr is just one thing just one enzyme
+cas9 i think that's a really great point
+and that speaks to just how fast this
+technology is developing because it
+started with us just knowing about cast
+nine but in just one cast nine right s
+pyogenes cas9 was kind of the first one
+used for gene editing in human cells
+exactly and just in the past few years
+this this toolbox has now been expanded
+well past that for example you can look
+into other different species of bacteria
+to find cast iron
+so cas9 is over many different species
+it's over a tremendous amount of
+bacteria and so you would reference
+strep page nice cas9 well if they you
+look into staphylococcus aureus you can
+also find cast 9 and that cast line is
+just slightly different it can target
+different regions of the genome and so
+that opens up a whole new set of
+possibilities in terms of genome editing
+so it increases the targetable space
+within the human genome you can target
+more regions that you couldn't with that
+first first cast line and what i find
+actually is a really interesting thing
+is that there's this
+huge metagenomic diversity of different
+crispr systems and most of them are
+really just not even well characterized
+yet and i think the best example that we
+were talking about earlier is this new
+rna targeting crispr so instead of
+cutting dna it targets rna and i think
+this is just one example of a complete
+paradigm shift i don't think anyone had
+necessarily predicted at the beginning
+that this would be one of the things
+that just was created and existed in
+nature and it just took some time for
+people to uncover it i think it's a
+great good example of why it's important
+actually to fund basic science because
+you sometimes when you start down a
+certain path you never know where you're
+going to end up in the end the more
+research that can be done in this area
+can really unleash new possibilities
+finding new things different versions of
+cas9 or other things that function like
+cast nine or things completely different
+that at this moment i can't even think
+of the possibilities
+are endless to be a little cliche about
+it no literally i think they are endless
+for sure
+i think it's great for people of all
+ages to understand crispr and at least a
+little bit about genome engineering
+because so much of the world today
+revolves around biology also there's
+something about self-understanding we
+really
+want to understand ourselves and what
+makes up ourselves and crispr and gene
+editing is another way to get at what is
+the substance
+underlying us

@@ -1,0 +1,149 @@
+- Shang-Hua, it's so great to see you again.
+I think last time we met was in 2017 or something like that.
+- I think we Zoomed once during the pandemic,
+but it's good to see you in person.
+- Right. Absolutely. [chuckles]
+- And actually, in '86 I was taking a crypto class
+with Professor Leonard Edelman, the A of RSA.
+And he assigned me the paper by
+Goldwasser, Micali, and Charlie Rackoff
+on zero-knowledge proof.
+So that's indeed my first ever presentation,
+ever, in this country.
+- Was about zero-knowledge. That's awesome.
+- [Shang-Hua] Was about zero-knowledge, yes.
+- It's such a almost hypnotic concept.
+- It's also an interesting way
+how mathematically to formulate those concepts, right.
+For example, we have data.
+Then eventually we started from data, like data mining,
+you can get the information,
+and then you have this word called knowledge.
+- [Amit] Right - Right.
+So knowledge has been long debated, even in philosophy.
+What is knowledge? - Indeed.
+- But here is a very fascinating way
+mathematicians or computer scientists
+- Right. - want to somehow
+capture this knowledge.
+It didn't say zero-information proof.
+- [Amit] Right. - So what's your take
+on why knowledge is, rather than information,
+or zero-data proof.
+Clearly, there's data there.
+So can't be zero-data.
+- Absolutely.
+I don't think we still have a
+completely satisfactory answer to that question.
+What was so, such a beautiful insight,
+as I'm sure you know,
+is that the idea of zero-knowledge
+- Mm-hmm. - being something
+that you can already predict.
+Right. - Mm-hmm.
+- If you can already predict the answer,
+then you must not be gaining any knowledge
+by that interaction.
+This insight of being able to predict the future accurately,
+and that being an evidence of a lack of new knowledge,
+- [Shang-Hua] Mm-hmm. - was such a
+beautiful insight, such an amazing insight.
+- Well there's not zero-information here.
+Fundamentally I, clearly from
+computing perspective, security perspective,
+is how much knowledge you're gaining, I guess.
+More than how much information you've gained.
+- [Amit] Indeed. - And how much data you have.
+Right. - [Amit] Right.
+- So that data then immediately imply, a knowledge.
+But people can't, sometimes.
+- Right. Sometimes.
+I mean, for example, in medical research,
+how amazing would it be, right,
+to be able to have a drug, and be able to prove
+that my drug works
+in this model. - Mm-hmm.
+- And yet, not have to actually
+reveal the structure of the compound.
+- What, currently, you're saying
+it would be the next directions
+in this space. - What's the next big things?
+- Yes. - Yeah.
+This concept of zero-knowledge programs
+would allow you to carry out
+completely arbitrary computations
+- Mm-hmm. - in a zero-knowledge way,
+without any interaction, right.
+I can just take the program,
+convert it to a zero-knowledge program,
+or an obfuscated program,
+and then just send it to you. - Mm-hmm.
+- And then you can run it
+and gain the benefit of that computation
+without having to talk to me anymore.
+- That's right.
+There's a non-interactive nature.
+- [Amit] The non-interactive nature.
+- But there's verifiability in it.
+- Indeed.
+- Sometimes when, for example,
+when you have multi-protocol exchange
+that, you know, just like a random number showed up,
+you have to enter the random number.
+- As authentication, yes. - Authentication, right.
+Now clearly I think in block chain,
+they also began to incorporate a more
+- Indeed. - general knowledge of proof
+in the ledger.
+- We're definitely at this moment now,
+where zero-knowledge is gonna be used more and more.
+There are so many conferences and meetings
+that occur in the zero-knowledge space,
+where you and I are not invited.
+[Shang-Hua laughs] Because it's for
+the people who are developing.
+You know, the people who are programming,
+not us mathematicians.
+- [Shang-Hua] Yes, yes.
+- And I think that's a sign.
+That's a sign that our baby has grown up and,
+[Shang-Hua laughs] you know, it's time
+for it to be developed.
+- I think, profoundly, the students often also ask me,
+what are the future direction,
+both in terms of crypto, zero-knowledge proof,
+in the real world and how mathematical you see in computing.
+- It's a great question. I wish I could see the future.
+I can't actually, but let me try.
+The part of that that I'm the most comfortable answering
+is of course the mathematical side.
+- Mm-hmm. - I think that there is,
+you know, we've done so much in cryptography
+over the last few decades,
+but we understand so little.
+- Mm-hmm - You know,
+even today we understand so little.
+And I think the most fundamental aspect of that
+is understanding hardness.
+How do we get hard problems? - Mm-hmm.
+- How do we actually build mathematically hard problems
+so that we can then use them to build efficient
+zero-knowledge programs. - [Shang-Hua] Mm-hmm.
+- And efficient zero-knowledge proofs, right?
+- I guess also, in quantum computing,
+you need even harder problems.
+- Indeed. Absolutely.
+You know, now that we have the
+specter of quantum computing - [Shang-Hua] Yes, yes.
+- coming at us and we all know that
+quantum computers can break a lot of
+cryptographic systems. - Yes. A profound challenge.
+- It's a profound challenge.
+So can we find new sources of hardness
+that are quantum-resistant? - [Shang-Hua] That's right.
+- That even quantum computers can't break.
+And that's something I've been working on
+for the last several years.
+But I'd be very excited to
+see what happens in that space.
+- But I'm sure they will motivate beautiful mathematics.

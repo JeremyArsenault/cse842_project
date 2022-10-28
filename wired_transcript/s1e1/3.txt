@@ -1,0 +1,49 @@
+so i think today we're going to talk
+about a connectome do you have you ever
+heard of that a connect home yeah
+no awesome i don't think so
+it's a map of all the connections
+between every neuron in your brain uh
+literally in a human brain something
+like the map of
+the one quadrillion connections that 100
+billion neurons
+make with each other is this like a
+a map where that's like an actual visual
+representation like using microscopy or
+just data wow wow i'm understanding more
+so that it's these
+these
+the a mapping of the neuro the
+circuitry the pathways between neurons
+that
+can
+lead to
+evidence of patterns in your brain that
+are common between different people we
+have to use electron microscopes and
+then what we have been developing are
+ways to slice the brain into really thin
+slices
+use an electron microscope to take a
+picture of each slice and then use
+computers to put it all back imagine
+that we could get the map of every
+connection right and we knew how neurons
+fired do you think we could put that in
+a computer that map and then therefore
+that computer should be able to think
+just like the brain that we extracted it
+from
+well the computer only communicates with
+itself in binary so it only has two
+options it can only ask itself yes or no
+questions but a human brain has
+an infinity of directions that it can go
+neurons are also
+digital uh meaning a neuron either fires
+or it doesn't fire so that's either one
+or a zero
+and it's the combination of those ones
+or zeros that actually produce the 10
+000 different answers that you say

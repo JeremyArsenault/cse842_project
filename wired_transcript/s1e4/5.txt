@@ -1,0 +1,234 @@
+so tell me your version of a technical
+definition of blockchain
+a technical definition of blockchain is
+that it is
+a persistent transparent public
+append-only ledger
+so it is a system that you can add data
+to and not change previous data within
+it
+it does this through a mechanism for
+creating consensus
+between scattered or distributed parties
+that do not need to trust each other but
+just need to trust the mechanism by
+which their consensus has arrived at
+in the case of blockchain
+it relies on some form of challenge
+such that
+no one actor on the network is able to
+solve this challenge consistently more
+than everyone else on the network so it
+randomizes yes yeah it randomizes the
+process and in theory ensures that no
+one can force the blockchain to accept a
+particular entry onto the ledger that
+others disagree with one that
+relies on a mechanism for a peer-to-peer
+network that can maintain
+updates to the ledger and then verify
+those updates in such a way that it is
+impossible to defraud and impossible to
+alter after the fact and do you see it
+as defining a new discipline of kinds or
+where where are we going to see
+blockchain emerge in the real world
+first i mean just so like as an example
+one thing that i think about a lot in
+terms of possible blockchain
+applications is electricity right the
+next generation of distributed smart
+grid technology effectively sure and
+people are working on that already yeah
+yeah exactly and it's this very fruitful
+area of research and you can find
+yourself looking like 20 years out right
+where you have an enormous number like
+of electric cars you have all of these
+batteries like that's essentially
+um a distributed
+peak load power grid right like the cars
+are getting plugged in and unplugged at
+different times if you have a mechanism
+that is able to
+automatically and autonomously
+be distributing power based on batteries
+that are scattered throughout the grid
+that are being used for other purposes
+their owners don't even necessarily need
+to be aware you begin to have something
+that looks like a much more viable
+society that still has a lot of
+electricity needs but is able to base
+that much more on renewables is able to
+make up the difference during peak load
+periods or during differences in weather
+that is able to have power much closer
+to where it's needed rather than having
+to be distributed over great distances
+like
+that's something that would be an
+enormously hard problem to solve and
+it's not that the blockchain makes it
+easy but it makes it possible a lot of
+people are seeing blockchain in the news
+and maybe seeing a lot of sort of
+initial coin offerings this sort of
+monetization opportunity around
+blockchain and are getting very excited
+about it and some of that excitement is
+is real and should be you know
+encouraged but some of it is also hype
+how do you feel about the hype cycle
+around blockchain today i'm glad you
+mentioned initial coin offerings um
+because for me those really exemplify
+the sort of the the problem that we're
+having at this exact moment they are a
+an idea with enormous potential
+significance down the road however the
+promise of the initial coin offering has
+been kind of hijacked into this string
+of like basically pump and dump scams or
+sort of desperate gold rush schemes the
+faster that we can we can shift from
+this this fantasy that it is going to
+make you rich in a sort of you know
+1920s tulip bubble kind of way um
+is is that is the sooner that we can get
+into people honestly and i mean this
+like with all the hope in the world
+people being disappointed in blockchains
+like oh i didn't get rich it's just
+being used now to make it easier to
+transact goods and services safely
+across borders this isn't exciting at
+all and then we'll see that like become
+part of the everyday infrastructure of
+the world in a way that i think will be
+very significant but i think it is now
+almost every aspect of it that's
+connected with the concept of money is
+wildly overhyped um and
+it also creates a problem which is
+people get a lot of excitement around it
+and then they're waiting for
+[Music]
+the world to change yeah right where
+where is this technology why haven't i
+seen anything changing yes yes because
+we've had a lot of pr a lot of proof of
+concept but yeah truthfully this is more
+like a science right it will develop it
+will take five years it will take 10
+years that kind of time is necessary one
+of the areas that brought me to supply
+chain research is the fact that we're
+we're not just going to see blockchain
+emerge we're going to see artificial
+intelligence continue to evolve we're
+gonna see connected devices and this
+sort of growing internet of things
+machinery that can do a lot more and
+have a wallet and transact on their own
+and so
+i actually think a lot of where
+blockchain and other technologies are
+headed is this interesting synergy that
+will help us elevate the kinds of
+institutions we've used in the past and
+cobbled together to create that
+identifiable
+verifiable trust yes and one of the most
+interesting ideas to me that came out of
+the currency side of the blockchain
+project was the notion around like
+coloring coins right assign properties
+to a particular coin
+and in particular to assign those
+properties in ways that would allow you
+to do things like bring in the graph of
+previous transactions you know there's
+sort of an obvious application for this
+which is something that would look a
+little bit like an extreme version of
+like a boycott divestment and sanctions
+kind of approach right a model where
+it's sort of like i will not touch money
+my wallet will automatically not touch
+money that has been exchanged with the
+following as a sort of very extreme way
+of cutting those things out but there's
+also ways in which i think that could be
+applied to to clearing out the entire
+logistics process of many kinds of bad
+actors but trying to make a supply chain
+better in some ways relies a lot on
+whose version of better that is and
+exactly kind of what gets qualified but
+also how that is quantified
+within say some kind of like smart
+contract system there's multiple ways
+that i could see this backfiring and one
+is the ways in which that is implemented
+for example
+leaving certain kinds of bad behavior
+untouched or unanalyzed or one that
+feels even more dire to me in some ways
+is creating an extremely inflexible con
+like because human contracts legal
+contracts are actually very flexible
+like there's a lot of kind of room to
+move and renegotiate yeah but we we
+already have
+real world versions of some of these
+nightmare scenarios right where like
+your kid has a medical emergency and you
+can't unlock your car because you're two
+days behind on payments for it and so
+the car system will no longer respond to
+the app mechanism that you're supposed
+to be able to use to drive it barrier
+being sort of a rigidity in structures
+that maybe don't accommodate real life
+scenarios very well as you and i have
+been talking one of the things that
+keeps coming up is that we tend to hold
+novel technologies to an unrealistically
+high standard in terms of what they are
+supposed to deliver rather than
+comparing them to actually existing
+systems where we can begin to see the
+possibility that even like a slight
+incremental improvement would still be
+an enormous gain the system we have
+today is also broken
+right
+it's it's hard to compare it to some
+perfect future just like we compare
+um you know autonomous vehicles to this
+very high standard because machines are
+doing it should be perfect right there
+should be zero car deaths
+and when you say well there's hundreds
+of thousands millions of you know car
+deaths on the road due to human error
+today i think we're in a similar place
+we're going to see problems with this
+technology and we are going to need to
+develop
+multiple kinds of standards that also
+have some flexibility
+but it's it's going to also be a
+version a system that
+allows us to fix some of the things that
+are broken today
+blockchain may sound complicated but at
+its core it's just another tool for
+humans and eventually robots and other
+kinds of identities to trade at scale
+and make that trade more decentralized
+and it's part of our future so it's
+important that people have these kinds
+of conversations and start to learn
+about it
