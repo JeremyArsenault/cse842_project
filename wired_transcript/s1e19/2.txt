@@ -1,0 +1,127 @@
+Our topic today is gonna be quantum sensing.
+Have you ever heard of it before?
+- No. - No.
+Okay, what do you think it might mean,
+if you just break down the words?
+- Something on a very small scale
+because of the word quantum. - Yeah.
+- The sensing part, I'm not sure.
+- So sensing is really just about measuring stuff.
+- Okay.
+- And at some level, there's different set of rules
+that seem to come into play
+'cause you can have particles at very microscopic scales
+seem to do really strange things.
+But one of the quests of quantum sensing
+is to harvest some of these unique properties
+at the micro scale.
+We are really interested in quantum sensors
+because we think they can give us
+the ultimate limit of sensitivity.
+So they're really, really sensitive to small changes,
+but they're also gonna be really reliable.
+Every time I make that measurement,
+I'll always get the same results.
+- Okay, measurements on like what kinds of things?
+- Could be on almost anything you want.
+Have you ever broken a bone?
+- Well, I fractured something though.
+- Okay, do you remember having an x-ray?
+- Yeah, x-ray and I have had a few MRIs before too.
+- You've had a few
+MRIs before. - Yeah.
+- And so, both of those are in some ways a form of sensing
+and they rely on different types of sensing.
+Do you know what this image is?
+- Maybe an MRI.
+- Exactly. - Yeah.
+- Do you know what an MRI, how an MRI works?
+- No, I don't and I feel like I should
+because I've gotten them millions of times.
+- And what the MRI scanner is doing is,
+it's measuring the signal from all the water molecules
+that are present and specifically the hydrogen atom.
+In our bodies, we have these hydrogen atoms
+that are essentially spinning around
+magnetic fields all the time and we just don't know them.
+So in some sense, you've already used a quantum sensor.
+- Yeah, so are MRIs essentially more detailed x-rays?
+- They're not.
+So they're giving us different types of information.
+- Okay. - So this is an x-ray.
+You don't see any of the soft tissue.
+The x-ray gave us information about the bone.
+- [Julia] Yeah.
+- Whereas MRIs giving us information
+about things like the softer tissues.
+- Yeah. - And in fact,
+we don't see the bone very well
+in the MRI. - Yeah.
+- So there are slightly different reasons
+why you would choose the two different things.
+Suppose I could get a higher resolution.
+- Mm-hmm.
+- What do you think I would be able to see?
+- The different atoms and the structures of the particles.
+Yeah. - Start to see
+the different cells
+- Yeah. - And then the different
+chemicals in the cells.
+If you look at the MRI images,
+you can see that they give you the broad features
+of what the tissue looks like.
+But if you wanna zoom in a little bit more
+and see what's actually happening inside a tissue
+or inside a cell and you need a different type of sensor
+that's gonna be more sensitive and for something like that,
+you're gonna need a quantum sensor.
+- Are there different types of quantum sensors
+for different things?
+- So one of the quantum sensors that's related
+to the work that I do is based on these defects
+that are called nitrogen-vacancy centers
+- Okay. - In a diamond
+and people actually now make nano diamonds
+that they can try to put inside the human body
+to look at the chemistry inside the cells.
+- So is that used for drug trials
+and when testing out new treatments?
+- We can do it on tissues right now or on the surface,
+but we can't actually do it inside the body.
+So right now, we're struggling to figure out
+which scenarios can we use this to get better information
+and when can we not do it.
+- Are there any other quantum sensors at the moment
+that are in the developmental stage anymore
+that we are using?
+- So there are quantum sensors that are sold
+for very specific applications,
+one of them is a magnetometer
+and those can be really, really sensitive
+to measure small variations in magnetic fields.
+They are trying to develop sensors
+that are gravitational sensors.
+Right now, we have no way of probing what's under the ground
+without digging into the ground.
+- You talked about a sensor measuring magnetic fields.
+- Yeah. - What does that
+help us learn?
+What is that good for?
+- Well, if I wanna navigate, and I know what the structure
+of the Earth's magnetic fields are,
+in some ways, that's how birds navigate.
+- Okay. - The avian compass.
+- Yeah. - In fact, people think
+of that as a quantum sensor.
+- Okay, so they've got
+like built-in. - A biological quantum sensor.
+- Yeah. - They have a built-in sensor
+and one of the ideas is that,
+they're using quantum phenomena
+- Yeah. - To figure out
+what the direction of the Earth's
+magnetic field is. - Okay.
+- That's why they're able to be,
+homing pigeons are able to come back
+- Yeah. - To their original location.
+- Oh, that's cool. - Yeah.

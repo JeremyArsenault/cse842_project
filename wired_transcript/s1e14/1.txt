@@ -1,0 +1,91 @@
+Do you know what machine learning means?
+Have you heard that before?
+- No.
+- So machine learning is a way that we teach computers
+to learn things about the world by looking at patterns
+and looking at examples of things.
+So can I show you an example
+of how a machine might learn something?
+- Sure.
+- [Hilary] So is this a dog or a cat?
+- It's a dog.
+- And this one?
+- A cat.
+- And what makes a dog, a dog and a cat, a cat?
+- Well, dogs are very playful, I think, more than cats.
+Cats lick themselves more than dogs, I think.
+- That's true.
+Do you think, if we look at these pictures,
+do you think maybe we could say,
+"Well, they both have pointy ears,
+but the dogs have a different kind of body
+and the cats like to stand up a little different."?
+Do you think that makes sense?
+- Yeah. - Yeah.
+What about this one?
+- A dog.
+A cat.
+I think, a cat?
+Because it's more skinny.
+And also, its legs are like really tall
+and its ears are a little pointy.
+- This one's a jackal. And it's actually a kind of dog.
+But you made a good guess.
+That's what machines do too. They make guesses.
+Is this a cat or a dog?
+- [Brynn] None.
+- [Hilary] None. What is it?
+- It's humans.
+- And how did you know that it's not a cat or a dog?
+- Because cats and dogs...
+Because they walk on their paws
+and their ears are like right here, not right here,
+and they don't wear watches.
+- And so, you did something pretty amazing there.
+Because we asked the question, "Is it a cat or a dog?"
+And you said, "I disagree with your question. It's a human."
+So machine learning is when we teach machines
+to make guesses about what things are
+based on looking at a lot of different examples.
+And I build products that use machine learning
+to learn about the world and make guesses
+about things in the world.
+When we try to teach machines to recognize things
+like cats and dogs, it takes a lot of examples.
+We have to show them tens of thousands
+or even millions of examples
+before they can get even close to as good at it as you are.
+Do you have tests in school?
+- Yeah, I have.
+After every unit, we have a review and then we have a test.
+- Are those like the practice problems
+you do before the test?
+- Well, just like everything that's gonna be on the test
+is on the review.
+- Which means that in the test,
+you're not seeing any problems
+that you don't know how to solve.
+As long as you did all your practice, right?
+- Yeah.
+- So machines work the same way.
+If you show them a lot of examples and give them practice,
+they'll learn how to guess.
+And then when you give them the test,
+they should be able to do that.
+So we looked at eight pictures
+and you were able to answer really quickly.
+But what would you do if I gave you 10 million examples?
+Would you be able to do that so quickly?
+- No.
+- So one of the differences between people and machines
+is that people might be a little better at this,
+but can't look at 10 million different things.
+So now that we've been talking about machine learning,
+is this something you want to learn how to do?
+- Kind of.
+Because I kind of want to become a spy.
+And we used to do coding,
+so I may be kind of good at it.
+- And machine learning is a great way to use
+all those math skills, all those coding skills,
+and would be a super cool tool for a spy.

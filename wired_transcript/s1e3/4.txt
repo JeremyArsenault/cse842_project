@@ -1,0 +1,111 @@
+you know an interesting topic is what
+are the limits to what we can do with
+virtual reality where i'm pretty pleased
+with what we have today what we can show
+people and say virtual reality it's cool
+people get an amazing response from it
+but we're still clearly a very very long
+ways from reality that kind of notes
+back to realism in our history and how
+realism was response to romanticism and
+realism was meant to capture the mundane
+everyday lives of you know individuals
+and not idealize any of their activities
+in any way and i think that that's
+really important for virtual reality i
+think it's kind of like a rite of
+passage for any kind of our technology
+to go through mostly in vr we talk about
+the the display in optics the visual
+side of things but we should at least
+tick off the other senses and
+haptics is an interesting thing about
+virtual reality really doesn't have that
+aspect of touching things you can move
+your hands around you could do
+everything but it's a disconnected
+experience because you know you don't
+have you know the actual solidity there
+and i am pessimistic about uh progress
+in haptics technology about almost all
+other areas i'm an optimist i'm excited
+about what's coming up but i don't have
+any brilliant vision about how we're
+going to revolutionize haptics and make
+it feel like we're touching the things
+in the virtual world so i've you know
+tried the demos where there's that brla
+there's one that has waves like audio
+waves i believe that come up and then
+you can put your hands through that and
+feel the waves whenever you're supposed
+to be feeling bubbles or any kind of
+force field or something and those are
+pretty interesting i've seen some pretty
+interesting things that you could do
+with audios you can cut down a lot of
+the storage i guess in the power that
+you would need in order to power a huge
+scene you can just you know mimic the
+sounds of those scenes actually being
+there and then not actually build them
+out for example
+a professor at usc would have the sound
+of a train drive-by without ever
+actually rendering the sound and you'd
+feel like you're deeply immersed in this
+world without having to have such an
+expensive scene built around you so i
+think those are pretty you know
+significant and that is one potential
+quality improvement that's still on the
+horizon is when we do spatialization we
+use the the hrtf the head relative
+transfer function to make it sound like
+it's in different places but usually we
+just use this one kind of generic here
+as your average human hrtf function
+and it's possible that of course if you
+are right in the average then it's
+perfect for you but there's always
+people off to the extremes that it
+doesn't do a very good job at and there
+may be better ways to allow people to
+sample their own perfect hrtf which can
+improve the audio experiences a lot it
+all comes down to all these trade-offs
+you know with display and um with
+resolution it's one of those things
+where if people have one bad experience
+they kind of outrule everything else
+it's really
+difficult to build trust again with
+people um who haven't done vr before but
+it's easy to break off that trust
+whenever they do it but there was a huge
+concern about that at oculus and the
+term internally that went around was
+poisoning the well they were very very
+concerned i mean for a long time there
+was a fight about whether gear vr should
+even be done because the worry was that
+if we let a product go out like gear vr
+that didn't have those things that if
+somebody saw it and it was bad it made
+them sick
+made their eyes hurt then they would be
+like i'm never going to try vr again i
+tried it that time and it was you know
+it was terrible and there was legitimate
+arguments about whether it was even a
+good idea to do that
+and it turned out that yes it's
+obviously better to have all of those
+things but you can still do something
+that's valuable for the user without it
+it's weird being at the beginning of a
+medium like this right i'm very excited
+to see uh how filmmakers tackle
+creating content in those things
+especially if they're already
+experienced with traditional medium

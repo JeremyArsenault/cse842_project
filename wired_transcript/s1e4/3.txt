@@ -1,0 +1,63 @@
+so when
+we were much smaller societies you and i
+could trade in our community pretty
+easily but as the distance in our trade
+grew we ended up inventing institutions
+right if you use uber or you use
+airbnb or you use amazon even these are
+just digital marketplaces and platforms
+that help us facilitate an exchange of
+value
+but today we actually have a technology
+that allows us to trade one-to-one but
+at scale and it's called blockchain
+technology there is some kind of
+interface for it you could have an app
+or you could use your computer to do it
+but instead of there being a company in
+the middle or what's helping you make
+that transaction is a bunch of software
+code and so it's being run by all of
+these different computers
+that have like a node so they're all
+running the same software and
+guaranteeing your transactions
+um as they happen i mean i would assume
+this technology is taking away business
+or activity from these middlemen in some
+cases yeah it is and a lot of people in
+the financial industry in particular are
+looking at it from the banking side of
+how do we use
+this technology to trade things like
+bitcoin or other tokens that um
+are easier to use instead of today's
+currency you know a lot of people think
+about blockchain as bitcoin
+because it's sort of in the news a lot
+and it's this new cryptocurrency and
+it's kind of exciting but we're actually
+seeing a lot more use cases for
+blockchain that aren't around the
+currency side they're more around how do
+you take any asset
+and be able to trade that using the same
+technology is there a mechanism for
+verifying
+that person a is a legitimate
+seller or producer of the item
+so today a lot of people are working on
+how to create identity structures that
+leverage blockchain and one of the tools
+for doing that is being able to
+cryptographically sign
+for
+a given attribute so your
+government could sign that you have a
+u.s passport or a university could sign
+that you are a currently enrolled
+student and you could then dole out that
+information
+and control it yourself and be able to
+show people those certifications on an
+as needed basis

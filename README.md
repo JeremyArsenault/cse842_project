@@ -1,1 +1,4 @@
-# cse842_project
+# Class Project for CSE482
+***************
+
+***************
